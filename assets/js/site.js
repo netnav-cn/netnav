@@ -11,3 +11,16 @@ document.addEventListener('click',e=>{if(e.target.closest('[data-search]')){e.pr
 document.addEventListener('keydown',e=>{if(e.key==='Escape')closeSearch(); if((e.ctrlKey||e.metaKey)&&e.key==='k'){e.preventDefault();openSearch();}});
 if(input)input.addEventListener('input',e=>renderResults(e.target.value));
 const home=document.querySelector('#home-search'); if(home)home.addEventListener('submit',e=>{e.preventDefault();openSearch(home.querySelector('input').value)});
+
+// Google Analytics 4
+(function(){
+  const gaScript=document.createElement('script');
+  gaScript.async=true;
+  gaScript.src='https://www.googletagmanager.com/gtag/js?id=G-H4C20T8RZZ';
+  document.head.appendChild(gaScript);
+
+  window.dataLayer=window.dataLayer||[];
+  window.gtag=function(){window.dataLayer.push(arguments);};
+  window.gtag('js',new Date());
+  window.gtag('config','G-H4C20T8RZZ');
+})();
