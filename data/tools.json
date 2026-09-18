@@ -1,0 +1,2277 @@
+[
+  {
+    "name": "Cloudflare WARP",
+    "url": "https://one.one.one.one/",
+    "desc": "Cloudflare 提供的加密连接与网络路径优化工具。",
+    "category_name": "网络连接与加速",
+    "detail": "sites/cloudflare-warp/"
+  },
+  {
+    "name": "Tailscale",
+    "url": "https://tailscale.com/",
+    "desc": "基于 WireGuard 的组网服务，适合设备间安全互联。",
+    "category_name": "网络连接与加速",
+    "detail": "sites/tailscale/"
+  },
+  {
+    "name": "ZeroTier",
+    "url": "https://www.zerotier.com/",
+    "desc": "虚拟局域网与设备组网工具。",
+    "category_name": "网络连接与加速",
+    "detail": "sites/zerotier/"
+  },
+  {
+    "name": "WireGuard",
+    "url": "https://www.wireguard.com/",
+    "desc": "轻量级现代 VPN 协议及开源实现。",
+    "category_name": "网络连接与加速",
+    "detail": "sites/wireguard/"
+  },
+  {
+    "name": "OpenVPN",
+    "url": "https://openvpn.net/",
+    "desc": "成熟的开源 VPN 协议与相关产品。",
+    "category_name": "网络连接与加速",
+    "detail": "sites/openvpn/"
+  },
+  {
+    "name": "SoftEther VPN",
+    "url": "https://www.softether.org/",
+    "desc": "支持多种 VPN 协议的开源软件。",
+    "category_name": "网络连接与加速",
+    "detail": "sites/softether-vpn/"
+  },
+  {
+    "name": "Outline",
+    "url": "https://getoutline.org/",
+    "desc": "Jigsaw 推出的自托管安全连接工具。",
+    "category_name": "网络连接与加速",
+    "detail": "sites/outline/"
+  },
+  {
+    "name": "Nebula",
+    "url": "https://github.com/slackhq/nebula",
+    "desc": "Slack 开源的可扩展覆盖网络工具。",
+    "category_name": "网络连接与加速",
+    "detail": "sites/nebula/"
+  },
+  {
+    "name": "Headscale",
+    "url": "https://github.com/juanfont/headscale",
+    "desc": "Tailscale 控制服务器的开源替代实现。",
+    "category_name": "网络连接与加速",
+    "detail": "sites/headscale/"
+  },
+  {
+    "name": "NetBird",
+    "url": "https://netbird.io/",
+    "desc": "基于 WireGuard 的开源安全组网平台。",
+    "category_name": "网络连接与加速",
+    "detail": "sites/netbird/"
+  },
+  {
+    "name": "Netmaker",
+    "url": "https://www.netmaker.io/",
+    "desc": "WireGuard 网络自动化与组网平台。",
+    "category_name": "网络连接与加速",
+    "detail": ""
+  },
+  {
+    "name": "Innernet",
+    "url": "https://github.com/tonarino/innernet",
+    "desc": "基于 WireGuard 的私有网络管理工具。",
+    "category_name": "网络连接与加速",
+    "detail": ""
+  },
+  {
+    "name": "Firezone",
+    "url": "https://www.firezone.dev/",
+    "desc": "面向团队的安全远程访问平台。",
+    "category_name": "网络连接与加速",
+    "detail": "sites/firezone/"
+  },
+  {
+    "name": "Teleport",
+    "url": "https://goteleport.com/",
+    "desc": "面向基础设施的安全访问与身份网关。",
+    "category_name": "网络连接与加速",
+    "detail": ""
+  },
+  {
+    "name": "Cloudflare Zero Trust",
+    "url": "https://www.cloudflare.com/zero-trust/",
+    "desc": "Cloudflare 的零信任访问与网络安全平台。",
+    "category_name": "网络连接与加速",
+    "detail": "sites/cloudflare-zero-trust/"
+  },
+  {
+    "name": "ngrok",
+    "url": "https://ngrok.com/",
+    "desc": "把本地服务安全暴露到公网的隧道平台。",
+    "category_name": "网络连接与加速",
+    "detail": "sites/ngrok/"
+  },
+  {
+    "name": "Cloudflared",
+    "url": "https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/",
+    "desc": "Cloudflare Tunnel 的客户端与文档入口。",
+    "category_name": "网络连接与加速",
+    "detail": "sites/cloudflared/"
+  },
+  {
+    "name": "FRP",
+    "url": "https://github.com/fatedier/frp",
+    "desc": "常用的开源反向代理与内网穿透工具。",
+    "category_name": "网络连接与加速",
+    "detail": "sites/frp/"
+  },
+  {
+    "name": "rathole",
+    "url": "https://github.com/rapiz1/rathole",
+    "desc": "轻量级高性能反向代理隧道工具。",
+    "category_name": "网络连接与加速",
+    "detail": ""
+  },
+  {
+    "name": "boringproxy",
+    "url": "https://boringproxy.io/",
+    "desc": "基于 SSH 的简单反向代理管理工具。",
+    "category_name": "网络连接与加速",
+    "detail": ""
+  },
+  {
+    "name": "LocalXpose",
+    "url": "https://localxpose.io/",
+    "desc": "提供安全隧道与本地服务公网访问。",
+    "category_name": "网络连接与加速",
+    "detail": ""
+  },
+  {
+    "name": "Pinggy",
+    "url": "https://pinggy.io/",
+    "desc": "基于 SSH 的本地隧道服务。",
+    "category_name": "网络连接与加速",
+    "detail": ""
+  },
+  {
+    "name": "localhost.run",
+    "url": "https://localhost.run/",
+    "desc": "无需额外客户端的 SSH 隧道服务。",
+    "category_name": "网络连接与加速",
+    "detail": ""
+  },
+  {
+    "name": "Twingate",
+    "url": "https://www.twingate.com/",
+    "desc": "面向团队的零信任远程访问服务。",
+    "category_name": "网络连接与加速",
+    "detail": "sites/twingate/"
+  },
+  {
+    "name": "GoodAccess",
+    "url": "https://www.goodaccess.com/",
+    "desc": "面向企业的云 VPN 与零信任访问。",
+    "category_name": "网络连接与加速",
+    "detail": ""
+  },
+  {
+    "name": "Hamachi",
+    "url": "https://vpn.net/",
+    "desc": "LogMeIn 的虚拟局域网工具。",
+    "category_name": "网络连接与加速",
+    "detail": ""
+  },
+  {
+    "name": "Radmin VPN",
+    "url": "https://www.radmin-vpn.com/",
+    "desc": "用于创建虚拟局域网的免费工具。",
+    "category_name": "网络连接与加速",
+    "detail": ""
+  },
+  {
+    "name": "SakuraFrp",
+    "url": "https://www.natfrp.com/",
+    "desc": "提供内网穿透与端口映射服务。",
+    "category_name": "网络连接与加速",
+    "detail": ""
+  },
+  {
+    "name": "NATAPP",
+    "url": "https://natapp.cn/",
+    "desc": "国内常用的内网穿透服务。",
+    "category_name": "网络连接与加速",
+    "detail": ""
+  },
+  {
+    "name": "Mullvad VPN",
+    "url": "https://mullvad.net/",
+    "desc": "强调隐私设计的商业 VPN 服务。",
+    "category_name": "VPN 与隐私",
+    "detail": "sites/mullvad-vpn/"
+  },
+  {
+    "name": "Proton VPN",
+    "url": "https://protonvpn.com/",
+    "desc": "Proton 提供的 VPN 服务。",
+    "category_name": "VPN 与隐私",
+    "detail": "sites/proton-vpn/"
+  },
+  {
+    "name": "IVPN",
+    "url": "https://www.ivpn.net/",
+    "desc": "以隐私和透明度为重点的 VPN 服务。",
+    "category_name": "VPN 与隐私",
+    "detail": "sites/ivpn/"
+  },
+  {
+    "name": "Mozilla VPN",
+    "url": "https://www.mozilla.org/products/vpn/",
+    "desc": "Mozilla 提供的 VPN 服务。",
+    "category_name": "VPN 与隐私",
+    "detail": "sites/mozilla-vpn/"
+  },
+  {
+    "name": "TunnelBear",
+    "url": "https://www.tunnelbear.com/",
+    "desc": "面向普通用户的 VPN 应用。",
+    "category_name": "VPN 与隐私",
+    "detail": "sites/tunnelbear/"
+  },
+  {
+    "name": "Windscribe",
+    "url": "https://windscribe.com/",
+    "desc": "提供 VPN 和相关隐私工具。",
+    "category_name": "VPN 与隐私",
+    "detail": "sites/windscribe/"
+  },
+  {
+    "name": "Hide.me",
+    "url": "https://hide.me/",
+    "desc": "提供 VPN 与隐私保护服务。",
+    "category_name": "VPN 与隐私",
+    "detail": "sites/hide-me/"
+  },
+  {
+    "name": "PrivadoVPN",
+    "url": "https://privadovpn.com/",
+    "desc": "商业 VPN 服务。",
+    "category_name": "VPN 与隐私",
+    "detail": ""
+  },
+  {
+    "name": "Surfshark",
+    "url": "https://surfshark.com/",
+    "desc": "提供 VPN 与网络隐私产品。",
+    "category_name": "VPN 与隐私",
+    "detail": "sites/surfshark/"
+  },
+  {
+    "name": "NordVPN",
+    "url": "https://nordvpn.com/",
+    "desc": "商业 VPN 与网络安全服务。",
+    "category_name": "VPN 与隐私",
+    "detail": "sites/nordvpn/"
+  },
+  {
+    "name": "ExpressVPN",
+    "url": "https://www.expressvpn.com/",
+    "desc": "商业 VPN 服务。",
+    "category_name": "VPN 与隐私",
+    "detail": "sites/expressvpn/"
+  },
+  {
+    "name": "CyberGhost",
+    "url": "https://www.cyberghostvpn.com/",
+    "desc": "商业 VPN 服务。",
+    "category_name": "VPN 与隐私",
+    "detail": ""
+  },
+  {
+    "name": "PIA",
+    "url": "https://www.privateinternetaccess.com/",
+    "desc": "Private Internet Access VPN 服务。",
+    "category_name": "VPN 与隐私",
+    "detail": "sites/pia/"
+  },
+  {
+    "name": "VyprVPN",
+    "url": "https://www.vyprvpn.com/",
+    "desc": "商业 VPN 服务。",
+    "category_name": "VPN 与隐私",
+    "detail": ""
+  },
+  {
+    "name": "StrongVPN",
+    "url": "https://strongvpn.com/",
+    "desc": "商业 VPN 服务。",
+    "category_name": "VPN 与隐私",
+    "detail": ""
+  },
+  {
+    "name": "Hotspot Shield",
+    "url": "https://www.hotspotshield.com/",
+    "desc": "商业 VPN 服务。",
+    "category_name": "VPN 与隐私",
+    "detail": ""
+  },
+  {
+    "name": "Tor Project",
+    "url": "https://www.torproject.org/",
+    "desc": "提供 Tor Browser 与匿名通信网络。",
+    "category_name": "VPN 与隐私",
+    "detail": "sites/tor-project/"
+  },
+  {
+    "name": "Tor Browser",
+    "url": "https://www.torproject.org/download/",
+    "desc": "Tor 官方浏览器下载入口。",
+    "category_name": "VPN 与隐私",
+    "detail": "sites/tor-browser/"
+  },
+  {
+    "name": "Orbot",
+    "url": "https://orbot.app/",
+    "desc": "Android 上通过 Tor 路由应用流量的工具。",
+    "category_name": "VPN 与隐私",
+    "detail": "sites/orbot/"
+  },
+  {
+    "name": "I2P",
+    "url": "https://geti2p.net/",
+    "desc": "去中心化匿名网络项目。",
+    "category_name": "VPN 与隐私",
+    "detail": "sites/i2p/"
+  },
+  {
+    "name": "Lokinet",
+    "url": "https://lokinet.org/",
+    "desc": "隐私取向的去中心化网络工具。",
+    "category_name": "VPN 与隐私",
+    "detail": ""
+  },
+  {
+    "name": "Amnezia VPN",
+    "url": "https://amnezia.org/",
+    "desc": "开源自托管 VPN 客户端与部署方案。",
+    "category_name": "VPN 与隐私",
+    "detail": "sites/amnezia-vpn/"
+  },
+  {
+    "name": "Algo VPN",
+    "url": "https://github.com/trailofbits/algo",
+    "desc": "Trail of Bits 的自托管 VPN 自动化项目。",
+    "category_name": "VPN 与隐私",
+    "detail": "sites/algo-vpn/"
+  },
+  {
+    "name": "OpenConnect",
+    "url": "https://www.infradead.org/openconnect/",
+    "desc": "兼容多类企业 VPN 的开源客户端。",
+    "category_name": "VPN 与隐私",
+    "detail": ""
+  },
+  {
+    "name": "strongSwan",
+    "url": "https://www.strongswan.org/",
+    "desc": "开源 IPsec VPN 实现。",
+    "category_name": "VPN 与隐私",
+    "detail": "sites/strongswan/"
+  },
+  {
+    "name": "Libreswan",
+    "url": "https://libreswan.org/",
+    "desc": "开源 IPsec VPN 实现。",
+    "category_name": "VPN 与隐私",
+    "detail": ""
+  },
+  {
+    "name": "Viscosity",
+    "url": "https://www.sparklabs.com/viscosity/",
+    "desc": "OpenVPN 与 WireGuard 图形客户端。",
+    "category_name": "VPN 与隐私",
+    "detail": ""
+  },
+  {
+    "name": "Passepartout",
+    "url": "https://passepartoutvpn.app/",
+    "desc": "Apple 平台 VPN 客户端。",
+    "category_name": "VPN 与隐私",
+    "detail": ""
+  },
+  {
+    "name": "WG Tunnel",
+    "url": "https://github.com/zaneschepke/wgtunnel",
+    "desc": "Android WireGuard 客户端项目。",
+    "category_name": "VPN 与隐私",
+    "detail": ""
+  },
+  {
+    "name": "WireSock",
+    "url": "https://www.wiresock.net/",
+    "desc": "Windows 上的 WireGuard 相关工具。",
+    "category_name": "VPN 与隐私",
+    "detail": ""
+  },
+  {
+    "name": "OpenVPN Connect",
+    "url": "https://openvpn.net/client/",
+    "desc": "OpenVPN 官方客户端。",
+    "category_name": "VPN 与隐私",
+    "detail": "sites/openvpn-connect/"
+  },
+  {
+    "name": "Proton Pass",
+    "url": "https://proton.me/pass",
+    "desc": "Proton 的密码管理服务。",
+    "category_name": "VPN 与隐私",
+    "detail": ""
+  },
+  {
+    "name": "Bitwarden",
+    "url": "https://bitwarden.com/",
+    "desc": "开源密码管理器。",
+    "category_name": "VPN 与隐私",
+    "detail": "sites/bitwarden/"
+  },
+  {
+    "name": "KeePassXC",
+    "url": "https://keepassxc.org/",
+    "desc": "桌面端开源密码管理器。",
+    "category_name": "VPN 与隐私",
+    "detail": "sites/keepassxc/"
+  },
+  {
+    "name": "1Password",
+    "url": "https://1password.com/",
+    "desc": "跨平台密码管理服务。",
+    "category_name": "VPN 与隐私",
+    "detail": ""
+  },
+  {
+    "name": "Ente Auth",
+    "url": "https://ente.io/auth/",
+    "desc": "开源双因素认证应用。",
+    "category_name": "VPN 与隐私",
+    "detail": ""
+  },
+  {
+    "name": "Aegis Authenticator",
+    "url": "https://getaegis.app/",
+    "desc": "Android 开源双因素认证应用。",
+    "category_name": "VPN 与隐私",
+    "detail": ""
+  },
+  {
+    "name": "Yubico Authenticator",
+    "url": "https://www.yubico.com/products/yubico-authenticator/",
+    "desc": "配合 YubiKey 使用的认证工具。",
+    "category_name": "VPN 与隐私",
+    "detail": ""
+  },
+  {
+    "name": "SimpleLogin",
+    "url": "https://simplelogin.io/",
+    "desc": "邮箱别名与隐私保护服务。",
+    "category_name": "VPN 与隐私",
+    "detail": "sites/simplelogin/"
+  },
+  {
+    "name": "Addy.io",
+    "url": "https://addy.io/",
+    "desc": "开源邮箱别名服务。",
+    "category_name": "VPN 与隐私",
+    "detail": "sites/addy-io/"
+  },
+  {
+    "name": "Firefox Relay",
+    "url": "https://relay.firefox.com/",
+    "desc": "Mozilla 提供的邮箱与电话隐私服务。",
+    "category_name": "VPN 与隐私",
+    "detail": ""
+  },
+  {
+    "name": "DuckDuckGo Email Protection",
+    "url": "https://duckduckgo.com/email/",
+    "desc": "DuckDuckGo 的邮箱隐私转发功能。",
+    "category_name": "VPN 与隐私",
+    "detail": ""
+  },
+  {
+    "name": "Cryptomator",
+    "url": "https://cryptomator.org/",
+    "desc": "面向云盘文件的客户端加密工具。",
+    "category_name": "VPN 与隐私",
+    "detail": "sites/cryptomator/"
+  },
+  {
+    "name": "Steam Status",
+    "url": "https://steamstat.us/",
+    "desc": "查看 Steam 各项服务状态。",
+    "category_name": "游戏网络",
+    "detail": "sites/steam-status/"
+  },
+  {
+    "name": "SteamDB",
+    "url": "https://steamdb.info/",
+    "desc": "Steam 数据、状态与游戏信息查询站。",
+    "category_name": "游戏网络",
+    "detail": "sites/steamdb/"
+  },
+  {
+    "name": "Xbox Status",
+    "url": "https://support.xbox.com/xbox-live-status",
+    "desc": "Xbox 官方服务状态页。",
+    "category_name": "游戏网络",
+    "detail": "sites/xbox-status/"
+  },
+  {
+    "name": "PlayStation Status",
+    "url": "https://status.playstation.com/",
+    "desc": "PlayStation 官方服务状态页。",
+    "category_name": "游戏网络",
+    "detail": "sites/playstation-status/"
+  },
+  {
+    "name": "Nintendo Network Status",
+    "url": "https://www.nintendo.co.jp/netinfo/en_US/",
+    "desc": "任天堂网络服务状态页面。",
+    "category_name": "游戏网络",
+    "detail": "sites/nintendo-network-status/"
+  },
+  {
+    "name": "Epic Games Status",
+    "url": "https://status.epicgames.com/",
+    "desc": "Epic Games 官方状态页。",
+    "category_name": "游戏网络",
+    "detail": "sites/epic-games-status/"
+  },
+  {
+    "name": "Riot Games Status",
+    "url": "https://status.riotgames.com/",
+    "desc": "Riot 游戏服务状态页。",
+    "category_name": "游戏网络",
+    "detail": "sites/riot-games-status/"
+  },
+  {
+    "name": "Battle.net Support",
+    "url": "https://battle.net/support/",
+    "desc": "暴雪 Battle.net 官方支持入口。",
+    "category_name": "游戏网络",
+    "detail": ""
+  },
+  {
+    "name": "EA Help",
+    "url": "https://help.ea.com/",
+    "desc": "EA 游戏服务帮助与状态入口。",
+    "category_name": "游戏网络",
+    "detail": ""
+  },
+  {
+    "name": "Ubisoft Help",
+    "url": "https://www.ubisoft.com/help",
+    "desc": "Ubisoft 官方帮助入口。",
+    "category_name": "游戏网络",
+    "detail": ""
+  },
+  {
+    "name": "Discord Status",
+    "url": "https://discordstatus.com/",
+    "desc": "Discord 官方状态页。",
+    "category_name": "游戏网络",
+    "detail": "sites/discord-status/"
+  },
+  {
+    "name": "Roblox Status",
+    "url": "https://status.roblox.com/",
+    "desc": "Roblox 官方服务状态页。",
+    "category_name": "游戏网络",
+    "detail": "sites/roblox-status/"
+  },
+  {
+    "name": "Minecraft Status",
+    "url": "https://help.minecraft.net/",
+    "desc": "Minecraft 官方支持入口。",
+    "category_name": "游戏网络",
+    "detail": ""
+  },
+  {
+    "name": "Cloudflare Speed",
+    "url": "https://speed.cloudflare.com/",
+    "desc": "Cloudflare 的网络测速工具，可查看延迟、抖动、丢包和吞吐表现。",
+    "category_name": "网络测速",
+    "detail": "sites/cloudflare-speed/"
+  },
+  {
+    "name": "Waveform Bufferbloat Test",
+    "url": "https://www.waveform.com/tools/bufferbloat",
+    "desc": "检测 Bufferbloat 对延迟的影响。",
+    "category_name": "游戏网络",
+    "detail": "sites/waveform-bufferbloat-test/"
+  },
+  {
+    "name": "Packet Loss Test",
+    "url": "https://packetlosstest.com/",
+    "desc": "浏览器端丢包与延迟测试。",
+    "category_name": "游戏网络",
+    "detail": "sites/packet-loss-test/"
+  },
+  {
+    "name": "Meter.net Ping Test",
+    "url": "https://www.meter.net/ping-test/",
+    "desc": "浏览器在线 Ping 测试。",
+    "category_name": "游戏网络",
+    "detail": ""
+  },
+  {
+    "name": "TestMy Latency",
+    "url": "https://testmy.net/latency",
+    "desc": "TestMy 的延迟测试页面。",
+    "category_name": "游戏网络",
+    "detail": ""
+  },
+  {
+    "name": "PingPlotter",
+    "url": "https://www.pingplotter.com/",
+    "desc": "可视化网络路径与延迟问题的诊断工具。",
+    "category_name": "游戏网络",
+    "detail": "sites/pingplotter/"
+  },
+  {
+    "name": "WinMTR",
+    "url": "https://sourceforge.net/projects/winmtr/",
+    "desc": "Windows 上结合 Ping 与 Traceroute 的诊断工具。",
+    "category_name": "游戏网络",
+    "detail": "sites/winmtr/"
+  },
+  {
+    "name": "MTR",
+    "url": "https://www.bitwizard.nl/mtr/",
+    "desc": "经典的网络路径与丢包诊断工具。",
+    "category_name": "游戏网络",
+    "detail": "sites/mtr/"
+  },
+  {
+    "name": "AWS CloudPing",
+    "url": "https://www.cloudping.co/grid",
+    "desc": "浏览器测试到 AWS 区域的延迟。",
+    "category_name": "游戏网络",
+    "detail": ""
+  },
+  {
+    "name": "Azure Speed",
+    "url": "https://www.azurespeed.com/",
+    "desc": "测试到 Azure 数据中心的延迟与速度。",
+    "category_name": "游戏网络",
+    "detail": ""
+  },
+  {
+    "name": "GCPing",
+    "url": "https://gcping.com/",
+    "desc": "测试到 Google Cloud 区域的延迟。",
+    "category_name": "游戏网络",
+    "detail": ""
+  },
+  {
+    "name": "NAT Type Test",
+    "url": "https://www.checkmynat.com/",
+    "desc": "检查网络 NAT 类型的在线工具。",
+    "category_name": "游戏网络",
+    "detail": ""
+  },
+  {
+    "name": "Open NAT",
+    "url": "https://www.asus.com/support/faq/1039504/",
+    "desc": "华硕 Open NAT 功能说明入口。",
+    "category_name": "游戏网络",
+    "detail": ""
+  },
+  {
+    "name": "Parsec",
+    "url": "https://parsec.app/",
+    "desc": "低延迟远程桌面与云游戏连接工具。",
+    "category_name": "游戏网络",
+    "detail": "sites/parsec/"
+  },
+  {
+    "name": "Moonlight",
+    "url": "https://moonlight-stream.org/",
+    "desc": "开源游戏串流客户端。",
+    "category_name": "游戏网络",
+    "detail": "sites/moonlight/"
+  },
+  {
+    "name": "Sunshine",
+    "url": "https://app.lizardbyte.dev/Sunshine/",
+    "desc": "Moonlight 兼容的开源串流主机。",
+    "category_name": "游戏网络",
+    "detail": "sites/sunshine/"
+  },
+  {
+    "name": "Speedtest by Ookla",
+    "url": "https://www.speedtest.net/",
+    "desc": "常用的下载、上传和延迟测速服务。",
+    "category_name": "网络测速",
+    "detail": "sites/speedtest-by-ookla/"
+  },
+  {
+    "name": "Fast.com",
+    "url": "https://fast.com/",
+    "desc": "Netflix 提供的简洁网络测速工具。",
+    "category_name": "网络测速",
+    "detail": "sites/fast-com/"
+  },
+  {
+    "name": "nPerf",
+    "url": "https://www.nperf.com/",
+    "desc": "网络测速与连接质量测试平台。",
+    "category_name": "网络测速",
+    "detail": "sites/nperf/"
+  },
+  {
+    "name": "Measurement Lab",
+    "url": "https://www.measurementlab.net/",
+    "desc": "开放互联网测量平台。",
+    "category_name": "网络测速",
+    "detail": "sites/measurement-lab/"
+  },
+  {
+    "name": "M-Lab Speed Test",
+    "url": "https://speed.measurementlab.net/",
+    "desc": "Measurement Lab 的网络测速入口。",
+    "category_name": "网络测速",
+    "detail": "sites/m-lab-speed-test/"
+  },
+  {
+    "name": "TestMy.net",
+    "url": "https://testmy.net/",
+    "desc": "基于浏览器的独立网络测速服务。",
+    "category_name": "网络测速",
+    "detail": "sites/testmy-net/"
+  },
+  {
+    "name": "SpeedOf.Me",
+    "url": "https://speedof.me/",
+    "desc": "HTML5 在线网络测速工具。",
+    "category_name": "网络测速",
+    "detail": "sites/speedof-me/"
+  },
+  {
+    "name": "OpenSpeedTest",
+    "url": "https://openspeedtest.com/",
+    "desc": "HTML5 网络测速工具，并支持自托管。",
+    "category_name": "网络测速",
+    "detail": "sites/openspeedtest/"
+  },
+  {
+    "name": "LibreSpeed",
+    "url": "https://librespeed.org/",
+    "desc": "开源、自托管的 HTML5 网络测速项目。",
+    "category_name": "网络测速",
+    "detail": "sites/librespeed/"
+  },
+  {
+    "name": "Meteor",
+    "url": "https://meteor.opensignal.com/",
+    "desc": "OpenSignal 提供的移动网络测速应用。",
+    "category_name": "网络测速",
+    "detail": ""
+  },
+  {
+    "name": "OpenSignal",
+    "url": "https://www.opensignal.com/",
+    "desc": "移动网络体验测量与分析平台。",
+    "category_name": "网络测速",
+    "detail": "sites/opensignal/"
+  },
+  {
+    "name": "SpeedSmart",
+    "url": "https://speedsmart.net/",
+    "desc": "网页与移动端网络测速服务。",
+    "category_name": "网络测速",
+    "detail": ""
+  },
+  {
+    "name": "BroadbandNow Speed Test",
+    "url": "https://broadbandnow.com/speedtest",
+    "desc": "在线宽带测速工具。",
+    "category_name": "网络测速",
+    "detail": ""
+  },
+  {
+    "name": "HighSpeedInternet Speed Test",
+    "url": "https://www.highspeedinternet.com/tools/speed-test",
+    "desc": "在线网络测速页面。",
+    "category_name": "网络测速",
+    "detail": ""
+  },
+  {
+    "name": "Bandwidth Place",
+    "url": "https://www.bandwidthplace.com/",
+    "desc": "浏览器网络测速工具。",
+    "category_name": "网络测速",
+    "detail": ""
+  },
+  {
+    "name": "Speedcheck",
+    "url": "https://www.speedcheck.org/",
+    "desc": "在线网络测速服务。",
+    "category_name": "网络测速",
+    "detail": ""
+  },
+  {
+    "name": "Cloudflare Radar Speed",
+    "url": "https://radar.cloudflare.com/speedtest",
+    "desc": "Cloudflare Radar 的测速入口。",
+    "category_name": "网络测速",
+    "detail": ""
+  },
+  {
+    "name": "Google Fiber Speed Test",
+    "url": "https://fiber.google.com/speedtest/",
+    "desc": "Google Fiber 提供的测速页面。",
+    "category_name": "网络测速",
+    "detail": ""
+  },
+  {
+    "name": "Xfinity Speed Test",
+    "url": "https://speedtest.xfinity.com/",
+    "desc": "Xfinity 提供的网络测速页面。",
+    "category_name": "网络测速",
+    "detail": ""
+  },
+  {
+    "name": "Spectrum Speed Test",
+    "url": "https://www.spectrum.com/internet/speed-test",
+    "desc": "Spectrum 的网络测速页面。",
+    "category_name": "网络测速",
+    "detail": ""
+  },
+  {
+    "name": "AT&T Speed Test",
+    "url": "https://www.att.com/support/speedtest/",
+    "desc": "AT&T 网络测速入口。",
+    "category_name": "网络测速",
+    "detail": ""
+  },
+  {
+    "name": "Verizon Speed Test",
+    "url": "https://www.verizon.com/speedtest/",
+    "desc": "Verizon 网络测速页面。",
+    "category_name": "网络测速",
+    "detail": ""
+  },
+  {
+    "name": "Fusion Connect Speed Test",
+    "url": "https://www.fusionconnect.com/speed-test-plus",
+    "desc": "网络速度与质量测试页面。",
+    "category_name": "网络测速",
+    "detail": ""
+  },
+  {
+    "name": "Cloudflare 1.1.1.1",
+    "url": "https://1.1.1.1/",
+    "desc": "Cloudflare 的公共 DNS 服务入口。",
+    "category_name": "DNS 与 IP",
+    "detail": "sites/cloudflare-1-1-1-1/"
+  },
+  {
+    "name": "Google Public DNS",
+    "url": "https://developers.google.com/speed/public-dns",
+    "desc": "Google 公共 DNS 官方文档。",
+    "category_name": "DNS 与 IP",
+    "detail": "sites/google-public-dns/"
+  },
+  {
+    "name": "Quad9",
+    "url": "https://quad9.net/",
+    "desc": "强调安全过滤的公共 DNS 服务。",
+    "category_name": "DNS 与 IP",
+    "detail": "sites/quad9/"
+  },
+  {
+    "name": "NextDNS",
+    "url": "https://nextdns.io/",
+    "desc": "可配置的 DNS 隐私与过滤服务。",
+    "category_name": "DNS 与 IP",
+    "detail": "sites/nextdns/"
+  },
+  {
+    "name": "AdGuard DNS",
+    "url": "https://adguard-dns.io/",
+    "desc": "提供广告与跟踪拦截选项的 DNS 服务。",
+    "category_name": "DNS 与 IP",
+    "detail": "sites/adguard-dns/"
+  },
+  {
+    "name": "OpenDNS",
+    "url": "https://www.opendns.com/",
+    "desc": "Cisco 提供的公共 DNS 与安全服务。",
+    "category_name": "DNS 与 IP",
+    "detail": "sites/opendns/"
+  },
+  {
+    "name": "Control D",
+    "url": "https://controld.com/",
+    "desc": "可配置的 DNS 解析与过滤服务。",
+    "category_name": "DNS 与 IP",
+    "detail": "sites/control-d/"
+  },
+  {
+    "name": "CleanBrowsing",
+    "url": "https://cleanbrowsing.org/",
+    "desc": "提供内容过滤的公共 DNS 服务。",
+    "category_name": "DNS 与 IP",
+    "detail": "sites/cleanbrowsing/"
+  },
+  {
+    "name": "Mullvad DNS",
+    "url": "https://mullvad.net/en/help/dns-over-https-and-dns-over-tls",
+    "desc": "Mullvad 提供的公共加密 DNS 信息。",
+    "category_name": "DNS 与 IP",
+    "detail": "sites/mullvad-dns/"
+  },
+  {
+    "name": "UncensoredDNS",
+    "url": "https://blog.uncensoreddns.org/",
+    "desc": "公共递归 DNS 服务。",
+    "category_name": "DNS 与 IP",
+    "detail": ""
+  },
+  {
+    "name": "DNS.WATCH",
+    "url": "https://dns.watch/",
+    "desc": "公共 DNS 服务。",
+    "category_name": "DNS 与 IP",
+    "detail": ""
+  },
+  {
+    "name": "FreeDNS",
+    "url": "https://freedns.afraid.org/",
+    "desc": "动态 DNS 与免费 DNS 托管服务。",
+    "category_name": "DNS 与 IP",
+    "detail": ""
+  },
+  {
+    "name": "Hurricane Electric DNS",
+    "url": "https://dns.he.net/",
+    "desc": "Hurricane Electric 的免费 DNS 托管。",
+    "category_name": "DNS 与 IP",
+    "detail": "sites/hurricane-electric-dns/"
+  },
+  {
+    "name": "Cloudflare DNS Checker",
+    "url": "https://1.1.1.1/help",
+    "desc": "检测是否正在使用 Cloudflare DNS。",
+    "category_name": "DNS 与 IP",
+    "detail": "sites/cloudflare-dns-checker/"
+  },
+  {
+    "name": "DNSLeakTest",
+    "url": "https://www.dnsleaktest.com/",
+    "desc": "检查 DNS 请求可能暴露到哪些解析器。",
+    "category_name": "DNS 与 IP",
+    "detail": "sites/dnsleaktest/"
+  },
+  {
+    "name": "IPLeak",
+    "url": "https://ipleak.net/",
+    "desc": "集中检查 IP、DNS、WebRTC 等信息。",
+    "category_name": "DNS 与 IP",
+    "detail": "sites/ipleak/"
+  },
+  {
+    "name": "BrowserLeaks IP",
+    "url": "https://browserleaks.com/ip",
+    "desc": "查看浏览器暴露的 IP 与网络信息。",
+    "category_name": "DNS 与 IP",
+    "detail": "sites/browserleaks-ip/"
+  },
+  {
+    "name": "IPinfo",
+    "url": "https://ipinfo.io/",
+    "desc": "IP、ASN、地理和网络信息查询服务。",
+    "category_name": "DNS 与 IP",
+    "detail": "sites/ipinfo/"
+  },
+  {
+    "name": "IPify",
+    "url": "https://www.ipify.org/",
+    "desc": "简单的公网 IP 查询 API。",
+    "category_name": "DNS 与 IP",
+    "detail": "sites/ipify/"
+  },
+  {
+    "name": "ifconfig.me",
+    "url": "https://ifconfig.me/",
+    "desc": "通过网页或命令行查看公网 IP。",
+    "category_name": "DNS 与 IP",
+    "detail": "sites/ifconfig-me/"
+  },
+  {
+    "name": "WhatIsMyIP",
+    "url": "https://www.whatismyip.com/",
+    "desc": "公网 IP 与基础网络信息查询。",
+    "category_name": "DNS 与 IP",
+    "detail": "sites/whatismyip/"
+  },
+  {
+    "name": "WhatIsMyIPAddress",
+    "url": "https://whatismyipaddress.com/",
+    "desc": "IP 地址与网络信息查询。",
+    "category_name": "DNS 与 IP",
+    "detail": "sites/whatismyipaddress/"
+  },
+  {
+    "name": "IP2Location",
+    "url": "https://www.ip2location.com/",
+    "desc": "IP 地理位置与网络数据库服务。",
+    "category_name": "DNS 与 IP",
+    "detail": ""
+  },
+  {
+    "name": "MaxMind GeoIP",
+    "url": "https://www.maxmind.com/en/geoip2-services-and-databases",
+    "desc": "IP 地理定位数据库与服务。",
+    "category_name": "DNS 与 IP",
+    "detail": ""
+  },
+  {
+    "name": "RIPEstat",
+    "url": "https://stat.ripe.net/",
+    "desc": "RIPE NCC 的网络与 ASN 查询平台。",
+    "category_name": "DNS 与 IP",
+    "detail": "sites/ripestat/"
+  },
+  {
+    "name": "BGP.he.net",
+    "url": "https://bgp.he.net/",
+    "desc": "Hurricane Electric 的 BGP 与 ASN 查询工具。",
+    "category_name": "DNS 与 IP",
+    "detail": "sites/bgp-he-net/"
+  },
+  {
+    "name": "PeeringDB",
+    "url": "https://www.peeringdb.com/",
+    "desc": "网络互联、ASN 与设施信息数据库。",
+    "category_name": "DNS 与 IP",
+    "detail": "sites/peeringdb/"
+  },
+  {
+    "name": "ip-api",
+    "url": "https://ip-api.com/",
+    "desc": "IP 信息查询 API。",
+    "category_name": "DNS 与 IP",
+    "detail": ""
+  },
+  {
+    "name": "ipwho.is",
+    "url": "https://ipwho.is/",
+    "desc": "IP 地理与网络信息 API。",
+    "category_name": "DNS 与 IP",
+    "detail": ""
+  },
+  {
+    "name": "IP.sb",
+    "url": "https://ip.sb/",
+    "desc": "IP 与 ASN 查询页面和 API。",
+    "category_name": "DNS 与 IP",
+    "detail": ""
+  },
+  {
+    "name": "Test IPv6",
+    "url": "https://test-ipv6.com/",
+    "desc": "检测 IPv6 连接是否正常。",
+    "category_name": "DNS 与 IP",
+    "detail": "sites/test-ipv6/"
+  },
+  {
+    "name": "IPv6 Test",
+    "url": "https://ipv6-test.com/",
+    "desc": "IPv4/IPv6 网络测试网站。",
+    "category_name": "DNS 与 IP",
+    "detail": "sites/ipv6-test/"
+  },
+  {
+    "name": "ICANN Lookup",
+    "url": "https://lookup.icann.org/",
+    "desc": "ICANN 官方域名注册信息查询。",
+    "category_name": "DNS 与 IP",
+    "detail": "sites/icann-lookup/"
+  },
+  {
+    "name": "MXToolbox",
+    "url": "https://mxtoolbox.com/",
+    "desc": "DNS、MX、黑名单与邮件网络工具集合。",
+    "category_name": "DNS 与 IP",
+    "detail": "sites/mxtoolbox/"
+  },
+  {
+    "name": "Ping.pe",
+    "url": "https://ping.pe/",
+    "desc": "从多个地区执行 Ping、Traceroute 和 DNS 查询。",
+    "category_name": "网络诊断",
+    "detail": "sites/ping-pe/"
+  },
+  {
+    "name": "Globalping",
+    "url": "https://globalping.io/",
+    "desc": "利用全球探针执行 Ping、Traceroute、DNS 等测试。",
+    "category_name": "网络诊断",
+    "detail": "sites/globalping/"
+  },
+  {
+    "name": "RIPE Atlas",
+    "url": "https://atlas.ripe.net/",
+    "desc": "RIPE NCC 的全球互联网测量平台。",
+    "category_name": "网络诊断",
+    "detail": "sites/ripe-atlas/"
+  },
+  {
+    "name": "Check-Host",
+    "url": "https://check-host.net/",
+    "desc": "从多地检查 Ping、HTTP、DNS 与端口。",
+    "category_name": "网络诊断",
+    "detail": "sites/check-host/"
+  },
+  {
+    "name": "Site24x7 Tools",
+    "url": "https://www.site24x7.com/tools.html",
+    "desc": "提供 Ping、Traceroute、DNS 等在线工具。",
+    "category_name": "网络诊断",
+    "detail": "sites/site24x7-tools/"
+  },
+  {
+    "name": "KeyCDN Tools",
+    "url": "https://tools.keycdn.com/",
+    "desc": "包含 Ping、Traceroute、DNS、HTTP 等网络工具。",
+    "category_name": "网络诊断",
+    "detail": "sites/keycdn-tools/"
+  },
+  {
+    "name": "DNSChecker",
+    "url": "https://dnschecker.org/",
+    "desc": "查询 DNS 解析在不同地区的传播情况。",
+    "category_name": "网络诊断",
+    "detail": "sites/dnschecker/"
+  },
+  {
+    "name": "WhatsMyDNS",
+    "url": "https://www.whatsmydns.net/",
+    "desc": "从多个地区检查 DNS 记录传播。",
+    "category_name": "网络诊断",
+    "detail": "sites/whatsmydns/"
+  },
+  {
+    "name": "IntoDNS",
+    "url": "https://intodns.com/",
+    "desc": "检查域名 DNS 配置常见问题。",
+    "category_name": "网络诊断",
+    "detail": "sites/intodns/"
+  },
+  {
+    "name": "DNSViz",
+    "url": "https://dnsviz.net/",
+    "desc": "可视化并分析 DNSSEC 与 DNS 配置。",
+    "category_name": "网络诊断",
+    "detail": "sites/dnsviz/"
+  },
+  {
+    "name": "ViewDNS.info",
+    "url": "https://viewdns.info/",
+    "desc": "集合 DNS、IP、Whois 等多种网络工具。",
+    "category_name": "网络诊断",
+    "detail": "sites/viewdns-info/"
+  },
+  {
+    "name": "YouGetSignal",
+    "url": "https://www.yougetsignal.com/tools/open-ports/",
+    "desc": "常用的端口与网络查询工具集合。",
+    "category_name": "网络诊断",
+    "detail": "sites/yougetsignal/"
+  },
+  {
+    "name": "CanYouSeeMe",
+    "url": "https://canyouseeme.org/",
+    "desc": "检查指定 TCP 端口能否从公网访问。",
+    "category_name": "网络诊断",
+    "detail": "sites/canyouseeme/"
+  },
+  {
+    "name": "PortChecker.co",
+    "url": "https://portchecker.co/",
+    "desc": "在线检查端口开放状态。",
+    "category_name": "网络诊断",
+    "detail": ""
+  },
+  {
+    "name": "Pingdom Tools",
+    "url": "https://tools.pingdom.com/",
+    "desc": "网页性能测试工具。",
+    "category_name": "网络诊断",
+    "detail": "sites/pingdom-tools/"
+  },
+  {
+    "name": "GTmetrix",
+    "url": "https://gtmetrix.com/",
+    "desc": "网页性能与加载分析工具。",
+    "category_name": "网络诊断",
+    "detail": "sites/gtmetrix/"
+  },
+  {
+    "name": "WebPageTest",
+    "url": "https://www.webpagetest.org/",
+    "desc": "网页性能与网络加载测试平台。",
+    "category_name": "网络诊断",
+    "detail": "sites/webpagetest/"
+  },
+  {
+    "name": "Chrome PageSpeed Insights",
+    "url": "https://pagespeed.web.dev/",
+    "desc": "Google 提供的网页性能测试工具。",
+    "category_name": "网络诊断",
+    "detail": "sites/chrome-pagespeed-insights/"
+  },
+  {
+    "name": "Down for Everyone or Just Me",
+    "url": "https://downforeveryoneorjustme.com/",
+    "desc": "快速判断网站是否普遍不可访问。",
+    "category_name": "网络诊断",
+    "detail": "sites/down-for-everyone-or-just-me/"
+  },
+  {
+    "name": "Is It Down Right Now",
+    "url": "https://www.isitdownrightnow.com/",
+    "desc": "网站可用性检查服务。",
+    "category_name": "网络诊断",
+    "detail": ""
+  },
+  {
+    "name": "DownDetector",
+    "url": "https://downdetector.com/",
+    "desc": "基于用户报告观察服务异常情况。",
+    "category_name": "网络诊断",
+    "detail": "sites/downdetector/"
+  },
+  {
+    "name": "UptimeRobot Status",
+    "url": "https://stats.uptimerobot.com/",
+    "desc": "UptimeRobot 状态页功能入口。",
+    "category_name": "网络诊断",
+    "detail": ""
+  },
+  {
+    "name": "Traceroute Online",
+    "url": "https://traceroute-online.com/",
+    "desc": "在线 Traceroute 工具。",
+    "category_name": "网络诊断",
+    "detail": ""
+  },
+  {
+    "name": "Geekflare Tools",
+    "url": "https://gf.dev/toolbox",
+    "desc": "网络与网站诊断工具集合。",
+    "category_name": "网络诊断",
+    "detail": ""
+  },
+  {
+    "name": "SSL Shopper Tools",
+    "url": "https://www.sslshopper.com/ssl-checker.html",
+    "desc": "SSL 证书检查工具。",
+    "category_name": "网络诊断",
+    "detail": ""
+  },
+  {
+    "name": "HTTPStatus",
+    "url": "https://httpstatus.io/",
+    "desc": "批量检查 HTTP 状态码与重定向。",
+    "category_name": "网络诊断",
+    "detail": "sites/httpstatus/"
+  },
+  {
+    "name": "Redirect Checker",
+    "url": "https://www.redirect-checker.org/",
+    "desc": "检查 URL 重定向链。",
+    "category_name": "网络诊断",
+    "detail": ""
+  },
+  {
+    "name": "WhereGoes",
+    "url": "https://wheregoes.com/",
+    "desc": "追踪 URL 重定向路径。",
+    "category_name": "网络诊断",
+    "detail": ""
+  },
+  {
+    "name": "urlscan.io",
+    "url": "https://urlscan.io/",
+    "desc": "扫描并分析网页请求与资源。",
+    "category_name": "网络诊断",
+    "detail": "sites/urlscan-io/"
+  },
+  {
+    "name": "SSL Labs",
+    "url": "https://www.ssllabs.com/ssltest/",
+    "desc": "Qualys 的 TLS/SSL 服务器配置测试。",
+    "category_name": "网络诊断",
+    "detail": "sites/ssl-labs/"
+  },
+  {
+    "name": "Hardenize",
+    "url": "https://www.hardenize.com/",
+    "desc": "域名、邮件与 TLS 安全配置分析。",
+    "category_name": "网络诊断",
+    "detail": "sites/hardenize/"
+  },
+  {
+    "name": "SecurityHeaders",
+    "url": "https://securityheaders.com/",
+    "desc": "检查网站常见安全响应头。",
+    "category_name": "网络诊断",
+    "detail": "sites/securityheaders/"
+  },
+  {
+    "name": "Mozilla Observatory",
+    "url": "https://developer.mozilla.org/en-US/observatory",
+    "desc": "Mozilla 的网站安全配置检测工具。",
+    "category_name": "网络诊断",
+    "detail": "sites/mozilla-observatory/"
+  },
+  {
+    "name": "Internet.nl",
+    "url": "https://internet.nl/",
+    "desc": "检查网站、邮件和连接的现代互联网标准支持。",
+    "category_name": "网络诊断",
+    "detail": "sites/internet-nl/"
+  },
+  {
+    "name": "Cloudflare Trace",
+    "url": "https://www.cloudflare.com/cdn-cgi/trace",
+    "desc": "查看连接到 Cloudflare 时的基础诊断信息。",
+    "category_name": "网络诊断",
+    "detail": ""
+  },
+  {
+    "name": "BrowserLeaks",
+    "url": "https://browserleaks.com/",
+    "desc": "浏览器指纹、WebRTC、DNS、Canvas 等检测工具集合。",
+    "category_name": "浏览器网络工具",
+    "detail": "sites/browserleaks/"
+  },
+  {
+    "name": "AmIUnique",
+    "url": "https://amiunique.org/",
+    "desc": "研究并测试浏览器指纹唯一性。",
+    "category_name": "浏览器网络工具",
+    "detail": "sites/amiunique/"
+  },
+  {
+    "name": "Cover Your Tracks",
+    "url": "https://coveryourtracks.eff.org/",
+    "desc": "EFF 的浏览器跟踪与指纹保护测试。",
+    "category_name": "浏览器网络工具",
+    "detail": "sites/cover-your-tracks/"
+  },
+  {
+    "name": "WebRTC Leak Test",
+    "url": "https://browserleaks.com/webrtc",
+    "desc": "检查浏览器 WebRTC 可能暴露的信息。",
+    "category_name": "浏览器网络工具",
+    "detail": "sites/webrtc-leak-test/"
+  },
+  {
+    "name": "Canvas Fingerprinting Test",
+    "url": "https://browserleaks.com/canvas",
+    "desc": "检测浏览器 Canvas 指纹信息。",
+    "category_name": "浏览器网络工具",
+    "detail": ""
+  },
+  {
+    "name": "WebGL Report",
+    "url": "https://webglreport.com/",
+    "desc": "查看浏览器 WebGL 与图形能力信息。",
+    "category_name": "浏览器网络工具",
+    "detail": ""
+  },
+  {
+    "name": "WhatIsMyBrowser",
+    "url": "https://www.whatismybrowser.com/",
+    "desc": "识别浏览器、系统和 User-Agent 信息。",
+    "category_name": "浏览器网络工具",
+    "detail": "sites/whatismybrowser/"
+  },
+  {
+    "name": "UserAgentString",
+    "url": "https://useragentstring.com/",
+    "desc": "解析浏览器 User-Agent 字符串。",
+    "category_name": "浏览器网络工具",
+    "detail": ""
+  },
+  {
+    "name": "HTTPBin",
+    "url": "https://httpbin.org/",
+    "desc": "用于测试 HTTP 请求和响应的服务。",
+    "category_name": "浏览器网络工具",
+    "detail": "sites/httpbin/"
+  },
+  {
+    "name": "httpbingo",
+    "url": "https://httpbingo.org/",
+    "desc": "HTTP 测试与回显服务。",
+    "category_name": "浏览器网络工具",
+    "detail": "sites/httpbingo/"
+  },
+  {
+    "name": "Webhook.site",
+    "url": "https://webhook.site/",
+    "desc": "生成临时 URL 接收并检查 HTTP 请求。",
+    "category_name": "浏览器网络工具",
+    "detail": "sites/webhook-site/"
+  },
+  {
+    "name": "Pipedream RequestBin",
+    "url": "https://pipedream.com/requestbin",
+    "desc": "Pipedream 提供的 HTTP 请求与 Webhook 调试入口。",
+    "category_name": "浏览器网络工具",
+    "detail": "sites/requestbin/"
+  },
+  {
+    "name": "Hoppscotch",
+    "url": "https://hoppscotch.io/",
+    "desc": "浏览器里的开源 API 调试工具。",
+    "category_name": "浏览器网络工具",
+    "detail": "sites/hoppscotch/"
+  },
+  {
+    "name": "ReqBin",
+    "url": "https://reqbin.com/",
+    "desc": "浏览器在线发送 HTTP/API 请求。",
+    "category_name": "浏览器网络工具",
+    "detail": "sites/reqbin/"
+  },
+  {
+    "name": "JSON Formatter",
+    "url": "https://jsonformatter.org/",
+    "desc": "在线 JSON 格式化与相关开发小工具。",
+    "category_name": "浏览器网络工具",
+    "detail": ""
+  },
+  {
+    "name": "Base64 Decode",
+    "url": "https://www.base64decode.org/",
+    "desc": "在线 Base64 编解码工具。",
+    "category_name": "浏览器网络工具",
+    "detail": ""
+  },
+  {
+    "name": "CyberChef",
+    "url": "https://gchq.github.io/CyberChef/",
+    "desc": "浏览器里的数据转换、编码和分析工具。",
+    "category_name": "浏览器网络工具",
+    "detail": "sites/cyberchef/"
+  },
+  {
+    "name": "Can I use",
+    "url": "https://caniuse.com/",
+    "desc": "查询 Web 平台功能的浏览器兼容性。",
+    "category_name": "浏览器网络工具",
+    "detail": "sites/can-i-use/"
+  },
+  {
+    "name": "DevTools Tips",
+    "url": "https://devtoolstips.org/",
+    "desc": "浏览器开发者工具技巧集合。",
+    "category_name": "浏览器网络工具",
+    "detail": ""
+  },
+  {
+    "name": "WebSocket King",
+    "url": "https://websocketking.com/",
+    "desc": "浏览器 WebSocket 调试工具。",
+    "category_name": "浏览器网络工具",
+    "detail": "sites/websocket-king/"
+  },
+  {
+    "name": "Socket.IO Admin UI",
+    "url": "https://admin.socket.io/",
+    "desc": "Socket.IO 官方管理界面项目。",
+    "category_name": "浏览器网络工具",
+    "detail": ""
+  },
+  {
+    "name": "Online Curl",
+    "url": "https://reqbin.com/curl",
+    "desc": "在线运行和转换 curl 请求。",
+    "category_name": "浏览器网络工具",
+    "detail": ""
+  },
+  {
+    "name": "Zoom",
+    "url": "https://zoom.us/",
+    "desc": "视频会议与远程协作服务。",
+    "category_name": "远程办公",
+    "detail": "sites/zoom/"
+  },
+  {
+    "name": "Google Meet",
+    "url": "https://meet.google.com/",
+    "desc": "Google 的在线视频会议服务。",
+    "category_name": "远程办公",
+    "detail": "sites/google-meet/"
+  },
+  {
+    "name": "Microsoft Teams",
+    "url": "https://www.microsoft.com/microsoft-teams/",
+    "desc": "微软团队沟通与会议平台。",
+    "category_name": "远程办公",
+    "detail": "sites/microsoft-teams/"
+  },
+  {
+    "name": "Slack",
+    "url": "https://slack.com/",
+    "desc": "团队沟通与协作平台。",
+    "category_name": "远程办公",
+    "detail": "sites/slack/"
+  },
+  {
+    "name": "Discord",
+    "url": "https://discord.com/",
+    "desc": "语音、文字和社区沟通平台。",
+    "category_name": "远程办公",
+    "detail": "sites/discord/"
+  },
+  {
+    "name": "Notion",
+    "url": "https://www.notion.so/",
+    "desc": "文档、知识库和项目协作工具。",
+    "category_name": "远程办公",
+    "detail": "sites/notion/"
+  },
+  {
+    "name": "Trello",
+    "url": "https://trello.com/",
+    "desc": "看板式任务与项目管理工具。",
+    "category_name": "远程办公",
+    "detail": "sites/trello/"
+  },
+  {
+    "name": "Asana",
+    "url": "https://asana.com/",
+    "desc": "团队任务与项目管理平台。",
+    "category_name": "远程办公",
+    "detail": "sites/asana/"
+  },
+  {
+    "name": "ClickUp",
+    "url": "https://clickup.com/",
+    "desc": "团队项目管理与生产力平台。",
+    "category_name": "远程办公",
+    "detail": "sites/clickup/"
+  },
+  {
+    "name": "Monday.com",
+    "url": "https://monday.com/",
+    "desc": "工作管理与团队协作平台。",
+    "category_name": "远程办公",
+    "detail": ""
+  },
+  {
+    "name": "Airtable",
+    "url": "https://www.airtable.com/",
+    "desc": "表格与数据库结合的协作平台。",
+    "category_name": "远程办公",
+    "detail": "sites/airtable/"
+  },
+  {
+    "name": "Miro",
+    "url": "https://miro.com/",
+    "desc": "在线白板与团队协作工具。",
+    "category_name": "远程办公",
+    "detail": "sites/miro/"
+  },
+  {
+    "name": "Figma",
+    "url": "https://www.figma.com/",
+    "desc": "协作式界面设计平台。",
+    "category_name": "远程办公",
+    "detail": "sites/figma/"
+  },
+  {
+    "name": "FigJam",
+    "url": "https://www.figma.com/figjam/",
+    "desc": "Figma 的在线白板工具。",
+    "category_name": "远程办公",
+    "detail": "sites/figjam/"
+  },
+  {
+    "name": "Linear",
+    "url": "https://linear.app/",
+    "desc": "面向软件团队的问题与项目管理工具。",
+    "category_name": "远程办公",
+    "detail": "sites/linear/"
+  },
+  {
+    "name": "Jira",
+    "url": "https://www.atlassian.com/software/jira",
+    "desc": "软件项目管理与问题跟踪平台。",
+    "category_name": "远程办公",
+    "detail": "sites/jira/"
+  },
+  {
+    "name": "Confluence",
+    "url": "https://www.atlassian.com/software/confluence",
+    "desc": "团队知识库与文档协作平台。",
+    "category_name": "远程办公",
+    "detail": "sites/confluence/"
+  },
+  {
+    "name": "Basecamp",
+    "url": "https://basecamp.com/",
+    "desc": "团队项目与沟通管理平台。",
+    "category_name": "远程办公",
+    "detail": ""
+  },
+  {
+    "name": "Mattermost",
+    "url": "https://mattermost.com/",
+    "desc": "可自托管的团队沟通平台。",
+    "category_name": "远程办公",
+    "detail": "sites/mattermost/"
+  },
+  {
+    "name": "Rocket.Chat",
+    "url": "https://www.rocket.chat/",
+    "desc": "开源团队沟通平台。",
+    "category_name": "远程办公",
+    "detail": "sites/rocket-chat/"
+  },
+  {
+    "name": "Jitsi Meet",
+    "url": "https://meet.jit.si/",
+    "desc": "开源视频会议服务。",
+    "category_name": "远程办公",
+    "detail": "sites/jitsi-meet/"
+  },
+  {
+    "name": "Whereby",
+    "url": "https://whereby.com/",
+    "desc": "浏览器视频会议服务。",
+    "category_name": "远程办公",
+    "detail": ""
+  },
+  {
+    "name": "Gather",
+    "url": "https://www.gather.town/",
+    "desc": "虚拟办公与社交空间。",
+    "category_name": "远程办公",
+    "detail": ""
+  },
+  {
+    "name": "Loom",
+    "url": "https://www.loom.com/",
+    "desc": "屏幕录制与异步沟通工具。",
+    "category_name": "远程办公",
+    "detail": "sites/loom/"
+  },
+  {
+    "name": "RustDesk",
+    "url": "https://rustdesk.com/",
+    "desc": "开源远程桌面工具。",
+    "category_name": "远程办公",
+    "detail": "sites/rustdesk/"
+  },
+  {
+    "name": "Google Drive",
+    "url": "https://drive.google.com/",
+    "desc": "Google 云盘与文件协作服务。",
+    "category_name": "文件传输",
+    "detail": "sites/google-drive/"
+  },
+  {
+    "name": "Dropbox",
+    "url": "https://www.dropbox.com/",
+    "desc": "云存储、同步和文件分享服务。",
+    "category_name": "文件传输",
+    "detail": "sites/dropbox/"
+  },
+  {
+    "name": "OneDrive",
+    "url": "https://www.microsoft.com/microsoft-365/onedrive/online-cloud-storage",
+    "desc": "微软云存储与同步服务。",
+    "category_name": "文件传输",
+    "detail": "sites/onedrive/"
+  },
+  {
+    "name": "iCloud Drive",
+    "url": "https://www.icloud.com/iclouddrive/",
+    "desc": "Apple 的云文件存储服务。",
+    "category_name": "文件传输",
+    "detail": "sites/icloud-drive/"
+  },
+  {
+    "name": "Box",
+    "url": "https://www.box.com/",
+    "desc": "面向个人和企业的云内容管理服务。",
+    "category_name": "文件传输",
+    "detail": "sites/box/"
+  },
+  {
+    "name": "MEGA",
+    "url": "https://mega.io/",
+    "desc": "提供端到端加密选项的云存储服务。",
+    "category_name": "文件传输",
+    "detail": "sites/mega/"
+  },
+  {
+    "name": "Proton Drive",
+    "url": "https://proton.me/drive",
+    "desc": "Proton 的加密云存储服务。",
+    "category_name": "文件传输",
+    "detail": "sites/proton-drive/"
+  },
+  {
+    "name": "pCloud",
+    "url": "https://www.pcloud.com/",
+    "desc": "云存储与文件同步服务。",
+    "category_name": "文件传输",
+    "detail": ""
+  },
+  {
+    "name": "Sync.com",
+    "url": "https://www.sync.com/",
+    "desc": "强调隐私的云存储和分享服务。",
+    "category_name": "文件传输",
+    "detail": ""
+  },
+  {
+    "name": "WeTransfer",
+    "url": "https://wetransfer.com/",
+    "desc": "临时大文件分享服务。",
+    "category_name": "文件传输",
+    "detail": "sites/wetransfer/"
+  },
+  {
+    "name": "SwissTransfer",
+    "url": "https://www.swisstransfer.com/",
+    "desc": "Infomaniak 提供的大文件传输服务。",
+    "category_name": "文件传输",
+    "detail": "sites/swisstransfer/"
+  },
+  {
+    "name": "Wormhole",
+    "url": "https://wormhole.app/",
+    "desc": "端到端加密文件分享服务。",
+    "category_name": "文件传输",
+    "detail": "sites/wormhole/"
+  },
+  {
+    "name": "Send Anywhere",
+    "url": "https://send-anywhere.com/",
+    "desc": "跨设备文件传输服务。",
+    "category_name": "文件传输",
+    "detail": "sites/send-anywhere/"
+  },
+  {
+    "name": "PairDrop",
+    "url": "https://pairdrop.net/",
+    "desc": "浏览器局域网/点对点文件传输工具。",
+    "category_name": "文件传输",
+    "detail": "sites/pairdrop/"
+  },
+  {
+    "name": "LocalSend",
+    "url": "https://localsend.org/",
+    "desc": "开源局域网跨平台文件传输工具。",
+    "category_name": "文件传输",
+    "detail": "sites/localsend/"
+  },
+  {
+    "name": "Syncthing",
+    "url": "https://syncthing.net/",
+    "desc": "开源点对点文件同步工具。",
+    "category_name": "文件传输",
+    "detail": "sites/syncthing/"
+  },
+  {
+    "name": "Resilio Sync",
+    "url": "https://www.resilio.com/sync/",
+    "desc": "点对点文件同步工具。",
+    "category_name": "文件传输",
+    "detail": "sites/resilio-sync/"
+  },
+  {
+    "name": "Croc",
+    "url": "https://github.com/schollz/croc",
+    "desc": "命令行点对点文件传输工具。",
+    "category_name": "文件传输",
+    "detail": "sites/croc/"
+  },
+  {
+    "name": "Magic Wormhole",
+    "url": "https://magic-wormhole.readthedocs.io/",
+    "desc": "通过短码安全传输文件的开源工具。",
+    "category_name": "文件传输",
+    "detail": "sites/magic-wormhole/"
+  },
+  {
+    "name": "UptimeRobot",
+    "url": "https://uptimerobot.com/",
+    "desc": "网站与服务可用性监控平台。",
+    "category_name": "网络监控",
+    "detail": "sites/uptimerobot/"
+  },
+  {
+    "name": "Better Stack",
+    "url": "https://betterstack.com/",
+    "desc": "监控、日志、状态页和事件管理平台。",
+    "category_name": "网络监控",
+    "detail": "sites/better-stack/"
+  },
+  {
+    "name": "Pingdom",
+    "url": "https://www.pingdom.com/",
+    "desc": "网站可用性与性能监控服务。",
+    "category_name": "网络监控",
+    "detail": "sites/pingdom/"
+  },
+  {
+    "name": "StatusCake",
+    "url": "https://www.statuscake.com/",
+    "desc": "网站可用性与性能监控平台。",
+    "category_name": "网络监控",
+    "detail": "sites/statuscake/"
+  },
+  {
+    "name": "HetrixTools",
+    "url": "https://hetrixtools.com/",
+    "desc": "可用性、服务器与黑名单监控。",
+    "category_name": "网络监控",
+    "detail": "sites/hetrixtools/"
+  },
+  {
+    "name": "Cronitor",
+    "url": "https://cronitor.io/",
+    "desc": "Cron、后台任务和服务监控。",
+    "category_name": "网络监控",
+    "detail": "sites/cronitor/"
+  },
+  {
+    "name": "Healthchecks.io",
+    "url": "https://healthchecks.io/",
+    "desc": "Cron 与定时任务运行状态监控。",
+    "category_name": "网络监控",
+    "detail": "sites/healthchecks-io/"
+  },
+  {
+    "name": "Checkly",
+    "url": "https://www.checklyhq.com/",
+    "desc": "API、浏览器与可用性监控平台。",
+    "category_name": "网络监控",
+    "detail": "sites/checkly/"
+  },
+  {
+    "name": "Grafana Cloud",
+    "url": "https://grafana.com/products/cloud/",
+    "desc": "托管的可观测性与监控平台。",
+    "category_name": "网络监控",
+    "detail": "sites/grafana-cloud/"
+  },
+  {
+    "name": "Datadog",
+    "url": "https://www.datadoghq.com/",
+    "desc": "云基础设施与应用可观测平台。",
+    "category_name": "网络监控",
+    "detail": "sites/datadog/"
+  },
+  {
+    "name": "New Relic",
+    "url": "https://newrelic.com/",
+    "desc": "应用性能与可观测性平台。",
+    "category_name": "网络监控",
+    "detail": "sites/new-relic/"
+  },
+  {
+    "name": "Sentry",
+    "url": "https://sentry.io/",
+    "desc": "应用错误与性能监控平台。",
+    "category_name": "网络监控",
+    "detail": "sites/sentry/"
+  },
+  {
+    "name": "Prometheus",
+    "url": "https://prometheus.io/",
+    "desc": "开源监控与时序指标系统。",
+    "category_name": "网络监控",
+    "detail": "sites/prometheus/"
+  },
+  {
+    "name": "Grafana",
+    "url": "https://grafana.com/oss/grafana/",
+    "desc": "开源可视化与监控仪表盘平台。",
+    "category_name": "网络监控",
+    "detail": "sites/grafana/"
+  },
+  {
+    "name": "Zabbix",
+    "url": "https://www.zabbix.com/",
+    "desc": "开源基础设施监控平台。",
+    "category_name": "网络监控",
+    "detail": "sites/zabbix/"
+  },
+  {
+    "name": "Nagios",
+    "url": "https://www.nagios.org/",
+    "desc": "经典基础设施与网络监控工具。",
+    "category_name": "网络监控",
+    "detail": "sites/nagios/"
+  },
+  {
+    "name": "Uptime Kuma",
+    "url": "https://github.com/louislam/uptime-kuma",
+    "desc": "开源自托管可用性监控和状态页。",
+    "category_name": "网络监控",
+    "detail": "sites/uptime-kuma/"
+  },
+  {
+    "name": "Netdata",
+    "url": "https://www.netdata.cloud/",
+    "desc": "实时基础设施和系统监控平台。",
+    "category_name": "网络监控",
+    "detail": "sites/netdata/"
+  },
+  {
+    "name": "Glances",
+    "url": "https://nicolargo.github.io/glances/",
+    "desc": "跨平台系统监控工具。",
+    "category_name": "网络监控",
+    "detail": ""
+  },
+  {
+    "name": "Postman",
+    "url": "https://www.postman.com/",
+    "desc": "API 设计、调试和协作平台。",
+    "category_name": "开发者网络工具",
+    "detail": "sites/postman/"
+  },
+  {
+    "name": "Insomnia",
+    "url": "https://insomnia.rest/",
+    "desc": "API 调试与设计客户端。",
+    "category_name": "开发者网络工具",
+    "detail": "sites/insomnia/"
+  },
+  {
+    "name": "HTTPie",
+    "url": "https://httpie.io/",
+    "desc": "友好的命令行与桌面 HTTP 客户端。",
+    "category_name": "开发者网络工具",
+    "detail": "sites/httpie/"
+  },
+  {
+    "name": "curl",
+    "url": "https://curl.se/",
+    "desc": "常用的命令行数据传输工具。",
+    "category_name": "开发者网络工具",
+    "detail": "sites/curl/"
+  },
+  {
+    "name": "wget",
+    "url": "https://www.gnu.org/software/wget/",
+    "desc": "GNU 命令行下载工具。",
+    "category_name": "开发者网络工具",
+    "detail": "sites/wget/"
+  },
+  {
+    "name": "Wireshark",
+    "url": "https://www.wireshark.org/",
+    "desc": "图形化网络协议分析工具。",
+    "category_name": "开发者网络工具",
+    "detail": "sites/wireshark/"
+  },
+  {
+    "name": "tcpdump",
+    "url": "https://www.tcpdump.org/",
+    "desc": "经典命令行网络抓包工具。",
+    "category_name": "开发者网络工具",
+    "detail": "sites/tcpdump/"
+  },
+  {
+    "name": "Nmap",
+    "url": "https://nmap.org/",
+    "desc": "网络发现与端口扫描工具。",
+    "category_name": "开发者网络工具",
+    "detail": "sites/nmap/"
+  },
+  {
+    "name": "Masscan",
+    "url": "https://github.com/robertdavidgraham/masscan",
+    "desc": "高性能端口扫描工具。",
+    "category_name": "开发者网络工具",
+    "detail": "sites/masscan/"
+  },
+  {
+    "name": "iperf3",
+    "url": "https://software.es.net/iperf/",
+    "desc": "测量网络吞吐性能的工具。",
+    "category_name": "开发者网络工具",
+    "detail": "sites/iperf3/"
+  },
+  {
+    "name": "iperf.fr",
+    "url": "https://iperf.fr/",
+    "desc": "iperf 使用资料与公共服务器信息。",
+    "category_name": "开发者网络工具",
+    "detail": "sites/iperf-fr/"
+  },
+  {
+    "name": "Netcat",
+    "url": "https://nc110.sourceforge.io/",
+    "desc": "经典 TCP/UDP 网络调试工具。",
+    "category_name": "开发者网络工具",
+    "detail": "sites/netcat/"
+  },
+  {
+    "name": "Socat",
+    "url": "http://www.dest-unreach.org/socat/",
+    "desc": "通用双向数据中继工具。",
+    "category_name": "开发者网络工具",
+    "detail": "sites/socat/"
+  },
+  {
+    "name": "mitmproxy",
+    "url": "https://mitmproxy.org/",
+    "desc": "交互式 HTTPS 代理与调试工具。",
+    "category_name": "开发者网络工具",
+    "detail": "sites/mitmproxy/"
+  },
+  {
+    "name": "Charles Proxy",
+    "url": "https://www.charlesproxy.com/",
+    "desc": "HTTP/HTTPS 调试代理工具。",
+    "category_name": "开发者网络工具",
+    "detail": "sites/charles-proxy/"
+  },
+  {
+    "name": "Fiddler",
+    "url": "https://www.telerik.com/fiddler",
+    "desc": "HTTP 调试与网络分析工具。",
+    "category_name": "开发者网络工具",
+    "detail": "sites/fiddler/"
+  },
+  {
+    "name": "Proxyman",
+    "url": "https://proxyman.com/",
+    "desc": "macOS 上的 HTTP 调试代理工具。",
+    "category_name": "开发者网络工具",
+    "detail": "sites/proxyman/"
+  },
+  {
+    "name": "Burp Suite",
+    "url": "https://portswigger.net/burp",
+    "desc": "Web 安全测试与 HTTP 调试平台。",
+    "category_name": "开发者网络工具",
+    "detail": "sites/burp-suite/"
+  },
+  {
+    "name": "OWASP ZAP",
+    "url": "https://www.zaproxy.org/",
+    "desc": "开源 Web 安全测试代理。",
+    "category_name": "开发者网络工具",
+    "detail": "sites/owasp-zap/"
+  },
+  {
+    "name": "ngrep",
+    "url": "https://github.com/jpr5/ngrep",
+    "desc": "网络数据包内容匹配工具。",
+    "category_name": "开发者网络工具",
+    "detail": ""
+  },
+  {
+    "name": "Scapy",
+    "url": "https://scapy.net/",
+    "desc": "Python 网络数据包构造与分析工具。",
+    "category_name": "开发者网络工具",
+    "detail": "sites/scapy/"
+  },
+  {
+    "name": "Packet Sender",
+    "url": "https://packetsender.com/",
+    "desc": "TCP、UDP、SSL 网络数据包测试工具。",
+    "category_name": "开发者网络工具",
+    "detail": "sites/packet-sender/"
+  },
+  {
+    "name": "Termshark",
+    "url": "https://termshark.io/",
+    "desc": "终端中的 Wireshark/TShark 界面。",
+    "category_name": "开发者网络工具",
+    "detail": ""
+  },
+  {
+    "name": "TShark",
+    "url": "https://www.wireshark.org/docs/man-pages/tshark.html",
+    "desc": "Wireshark 的命令行协议分析工具。",
+    "category_name": "开发者网络工具",
+    "detail": "sites/tshark/"
+  },
+  {
+    "name": "dnsperf",
+    "url": "https://www.dns-oarc.net/tools/dnsperf",
+    "desc": "DNS 性能测试工具。",
+    "category_name": "开发者网络工具",
+    "detail": ""
+  },
+  {
+    "name": "kdig",
+    "url": "https://www.knot-dns.cz/docs/latest/html/man_kdig.html",
+    "desc": "支持现代 DNS 特性的命令行查询工具。",
+    "category_name": "开发者网络工具",
+    "detail": ""
+  },
+  {
+    "name": "doggo",
+    "url": "https://github.com/mr-karan/doggo",
+    "desc": "现代命令行 DNS 客户端。",
+    "category_name": "开发者网络工具",
+    "detail": ""
+  },
+  {
+    "name": "xh",
+    "url": "https://github.com/ducaale/xh",
+    "desc": "Rust 编写的 HTTP 命令行客户端。",
+    "category_name": "开发者网络工具",
+    "detail": ""
+  },
+  {
+    "name": "grpcurl",
+    "url": "https://github.com/fullstorydev/grpcurl",
+    "desc": "命令行 gRPC 调试工具。",
+    "category_name": "开发者网络工具",
+    "detail": "sites/grpcurl/"
+  },
+  {
+    "name": "websocat",
+    "url": "https://github.com/vi/websocat",
+    "desc": "WebSocket 命令行客户端。",
+    "category_name": "开发者网络工具",
+    "detail": "sites/websocat/"
+  },
+  {
+    "name": "wscat",
+    "url": "https://github.com/websockets/wscat",
+    "desc": "WebSocket 命令行调试工具。",
+    "category_name": "开发者网络工具",
+    "detail": "sites/wscat/"
+  },
+  {
+    "name": "tcping",
+    "url": "https://www.elifulkerson.com/projects/tcping.php",
+    "desc": "使用 TCP 连接测试主机和端口延迟。",
+    "category_name": "开发者网络工具",
+    "detail": ""
+  },
+  {
+    "name": "Have I Been Pwned",
+    "url": "https://haveibeenpwned.com/",
+    "desc": "检查邮箱是否出现在已公开的数据泄露事件中。",
+    "category_name": "安全与隐私检测",
+    "detail": "sites/have-i-been-pwned/"
+  },
+  {
+    "name": "VirusTotal",
+    "url": "https://www.virustotal.com/",
+    "desc": "分析文件、URL、域名和 IP 的安全信誉。",
+    "category_name": "安全与隐私检测",
+    "detail": "sites/virustotal/"
+  },
+  {
+    "name": "URLVoid",
+    "url": "https://www.urlvoid.com/",
+    "desc": "聚合多个来源检查网站信誉。",
+    "category_name": "安全与隐私检测",
+    "detail": "sites/urlvoid/"
+  },
+  {
+    "name": "AbuseIPDB",
+    "url": "https://www.abuseipdb.com/",
+    "desc": "查询 IP 是否有滥用举报记录。",
+    "category_name": "安全与隐私检测",
+    "detail": "sites/abuseipdb/"
+  },
+  {
+    "name": "Talos Intelligence",
+    "url": "https://talosintelligence.com/reputation_center",
+    "desc": "Cisco Talos 的 IP/域名信誉查询。",
+    "category_name": "安全与隐私检测",
+    "detail": "sites/talos-intelligence/"
+  },
+  {
+    "name": "Google Safe Browsing",
+    "url": "https://transparencyreport.google.com/safe-browsing/search",
+    "desc": "Google 安全浏览网站状态查询。",
+    "category_name": "安全与隐私检测",
+    "detail": "sites/google-safe-browsing/"
+  },
+  {
+    "name": "Sucuri SiteCheck",
+    "url": "https://sitecheck.sucuri.net/",
+    "desc": "远程检查网站恶意内容与安全问题。",
+    "category_name": "安全与隐私检测",
+    "detail": "sites/sucuri-sitecheck/"
+  },
+  {
+    "name": "Quttera",
+    "url": "https://quttera.com/",
+    "desc": "网站恶意内容与安全扫描服务。",
+    "category_name": "安全与隐私检测",
+    "detail": ""
+  },
+  {
+    "name": "MXToolbox Blacklist Check",
+    "url": "https://mxtoolbox.com/blacklists.aspx",
+    "desc": "检查 IP 或域名是否出现在常见黑名单。",
+    "category_name": "安全与隐私检测",
+    "detail": "sites/mxtoolbox-blacklist-check/"
+  },
+  {
+    "name": "Shodan",
+    "url": "https://www.shodan.io/",
+    "desc": "互联网连接设备与服务搜索引擎。",
+    "category_name": "安全与隐私检测",
+    "detail": "sites/shodan/"
+  },
+  {
+    "name": "Censys",
+    "url": "https://search.censys.io/",
+    "desc": "互联网主机与证书搜索平台。",
+    "category_name": "安全与隐私检测",
+    "detail": "sites/censys/"
+  },
+  {
+    "name": "crt.sh",
+    "url": "https://crt.sh/",
+    "desc": "查询 Certificate Transparency 证书日志。",
+    "category_name": "安全与隐私检测",
+    "detail": "sites/crt-sh/"
+  },
+  {
+    "name": "Certificate Transparency",
+    "url": "https://certificate.transparency.dev/",
+    "desc": "证书透明度项目资料入口。",
+    "category_name": "安全与隐私检测",
+    "detail": ""
+  },
+  {
+    "name": "Qualys BrowserCheck",
+    "url": "https://browsercheck.qualys.com/",
+    "desc": "检查浏览器与插件安全状态。",
+    "category_name": "安全与隐私检测",
+    "detail": ""
+  },
+  {
+    "name": "LeakIX",
+    "url": "https://leakix.net/",
+    "desc": "互联网公开服务与安全问题搜索平台。",
+    "category_name": "安全与隐私检测",
+    "detail": ""
+  }
+]
