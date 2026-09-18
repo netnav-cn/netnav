@@ -1,10 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260">
-<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#0d1f42"/><stop offset="1" stop-color="#1f5fc7"/></linearGradient></defs>
-<rect width="100%" height="100%" rx="24" fill="url(#g)"/>
-<circle cx="983" cy="130" r="88" fill="#ffffff" opacity=".08"/>
-<circle cx="1056" cy="83" r="46" fill="#ffffff" opacity=".06"/>
-<text x="84" y="104" fill="#fff" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="56" font-weight="700">虎跃加速器</text>
-<text x="84" y="161" fill="#d8e7ff" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="25">网络线路优化工具 · 访问官网了解详情</text>
-<rect x="864" y="163" width="228" height="46" rx="23" fill="#fff"/>
-<text x="977" y="195" text-anchor="middle" fill="#174eaa" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="21" font-weight="700">查看官网 →</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#10254d"/>
+      <stop offset="1" stop-color="#2563d5"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0" x2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity=".12"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="170" rx="18" fill="url(#bg)"/>
+  <path d="M760 0H1200V170H690C760 112 800 59 760 0Z" fill="url(#shine)"/>
+  <circle cx="1055" cy="35" r="68" fill="#fff" opacity=".07"/>
+  <circle cx="1118" cy="120" r="100" fill="#fff" opacity=".045"/>
+  <text x="54" y="70" fill="#fff" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="38" font-weight="700">虎跃加速器</text>
+  <text x="54" y="108" fill="#dbeafe" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="18">网络线路优化工具</text>
+  <rect x="925" y="61" width="190" height="48" rx="24" fill="#fff"/>
+  <text x="1020" y="92" text-anchor="middle" fill="#194fae" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="17" font-weight="700">访问官网 →</text>
 </svg>
