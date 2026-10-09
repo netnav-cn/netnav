@@ -506,3 +506,16 @@ a.hero-path:focus-visible,a.hero-scan-row:focus-visible{outline:3px solid var(--
 .info-table .external-btn--inline{margin:0;min-height:40px;white-space:nowrap;padding:8px 14px;font-size:13px;text-decoration:none}
 @media(max-width:760px){.ad-native{padding:17px;gap:10px;min-height:126px}.ad-native__name{font-size:22px}.ad-native__desc{font-size:13px}.ad-native__right{gap:10px}.ad-native__right img{width:48px;height:48px}.ad-native__cta{font-size:12px;padding:9px 13px}}
 @media(max-width:500px){.ad-native{align-items:stretch;flex-direction:column}.ad-native__right{justify-content:space-between}.ad-native__right img{width:46px;height:46px}.ad-native__cta{min-height:44px;min-width:130px}.ad-wrap--side .ad-native{padding:16px}}
+
+/* V52: all placements use legible native layout, never scale text in an SVG. */
+.ad-wrap--wide .ad-native{display:grid;grid-template-columns:minmax(220px,1.2fr) minmax(190px,.9fr) auto;align-items:center;column-gap:clamp(18px,3vw,44px);min-height:122px;padding:19px clamp(18px,3vw,34px)}
+.ad-wrap--wide .ad-native__features{display:flex;flex-wrap:wrap;gap:8px;align-content:center;justify-content:center;min-width:0}
+.ad-native__features span{font-size:12px;font-weight:700;line-height:1.3;padding:9px 11px;border:1px solid rgba(104,230,255,.21);border-radius:999px;color:#b9e8fb;background:rgba(24,104,159,.14);white-space:nowrap}
+.ad-wrap--wide .ad-native__right{justify-content:flex-end;gap:14px}
+.ad-wrap--wide .ad-native__name{font-size:clamp(21px,2.1vw,27px)}
+.ad-wrap--wide .ad-native__desc{font-size:14px;margin-top:7px}
+.ad-wrap--wide .ad-native__sub{margin-top:3px}
+.ad-wrap--side .ad-native__right{flex-wrap:wrap}
+@media(max-width:1000px){.ad-wrap--wide .ad-native{grid-template-columns:minmax(200px,1fr) auto;row-gap:10px}.ad-wrap--wide .ad-native__features{grid-column:1/-1;grid-row:2;justify-content:flex-start}.ad-wrap--wide .ad-native__right{grid-column:2;grid-row:1}}
+@media(max-width:620px){.ad-wrap--wide .ad-native{grid-template-columns:1fr auto;column-gap:10px;padding:16px}.ad-wrap--wide .ad-native__features{grid-column:1/-1;grid-row:3;justify-content:flex-start}.ad-wrap--wide .ad-native__right{grid-column:2;grid-row:1/3;flex-direction:column;gap:6px}.ad-wrap--wide .ad-native__right img{width:52px;height:52px}.ad-wrap--wide .ad-native__name{font-size:23px}.ad-wrap--wide .ad-native__cta{font-size:12px;padding:9px 12px;min-height:40px}.ad-native__features span{font-size:11px;padding:7px 9px}}
+@media(max-width:360px){.ad-wrap--wide .ad-native{grid-template-columns:1fr}.ad-wrap--wide .ad-native__right{grid-column:1;grid-row:2;flex-direction:row;justify-content:space-between}.ad-wrap--wide .ad-native__features{grid-row:3}}
